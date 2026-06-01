@@ -1,0 +1,1 @@
+ integration analysis of in-silicon mutations (ISM),  showcase several know disease, just as the nature paper shows, showing the potential it can provide solution to all current GWAS SNPs.   

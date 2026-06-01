@@ -1,0 +1,1 @@
+show the reliability of Hi-TrAC data with new samples, never seen in the training dataset, could be great if it’s a known patient mutation related sample in non-coding region, but people do not know the target genes
